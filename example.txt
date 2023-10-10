@@ -1,0 +1,490 @@
+Accumula Town
+Alfornada
+Ambrette Town
+Anistar City
+Anville Town
+Aquacorde Town
+Artazon
+Aspertia City
+Azalea Town
+Ballonlea
+Black City
+Blackthorn City
+Cabo Poco
+Camphrier Town
+Canalave City
+Cascarrafa
+Castelia City
+Celadon City
+Celestic Town
+Cerulean City
+Cherrygrove City
+Cianwood City
+Circhester
+Cinnabar Island
+Cortondo
+Coumarine City
+Couriway Town
+Cyllage City
+Dendemille Town
+Dewford Town
+Diamond Settlement
+Driftveil City
+Ecruteak City
+Eterna City
+Ever Grande City
+Fallarbor Town
+Fight Area
+Five Island
+Floaroma Town
+Floccesy Town
+Fortree City
+Four Island
+Freezington
+Frontier Access
+Fuchsia City
+Geosenge Town
+Goldenrod City
+Hammerlocke
+Hau'oli City
+Heahea City
+Hearthome City
+Hulbury
+Humilau City
+Icirrus City
+Iki Town
+Jubilife City
+Jubilife Village
+Kiloude City
+Konikoni City
+Lacunosa Town
+Lavaridge Town
+Lavender Town
+Laverre City
+Lentimas Town
+Levincia
+Littleroot Town
+Lilycove City
+Los Platos
+Lumiose City
+Mahogany Town
+Malie City
+Mauville City
+Medali
+Mesagoza
+Mistralton City
+Montenevera
+Mossdeep City
+Motostoke
+Nacrene City
+New Bark Town
+Nimbasa City
+Nuvema Town
+Oldale Town
+Olivine City
+One Island
+Opelucid City
+Oreburgh City
+Pacifidlog Town
+Pallet Town
+Paniola Town
+Pastoria City
+Pearl Settlement
+Petalburg City
+Pewter City
+Po Town
+Porto Marinada
+Postwick
+Resort Area
+Rustboro City
+Safari Zone Gate
+Saffron City
+Sandgem Town
+Santalune City
+Seafolk Village
+Seven Island
+Shalour City
+Six Island
+Slateport City
+Stow-on-Side
+Snowbelle City
+Snowpoint City
+Solaceon Town
+Sootopolis City
+Spikemuth
+Striaton City
+Sunyshore City
+Survival Area
+Tapu Village
+Three Island
+Turffield
+Twinleaf Town
+Two Island
+Undella Town
+Vaniville Town
+Veilstone City
+Verdanturf Town
+Vermilion City
+Violet City
+Virbank City
+Viridian City
+Wedgehurst
+White Forest
+Wyndon
+Zapapico
+Side series locations
+English name
+Agate Village
+Gateon Port
+Phenac City
+Pyrite Town
+The Under
+White City
+Spin-off locations
+English name
+Aqua Resort
+Axle Town
+Baram Town
+Boyleland
+Capim Town
+Centra City
+Chicole Village
+Cocona Village
+Easterly Town
+Fall City
+Haruba Village
+Lively Town
+Mintale Town
+Noe Town
+Northerly Town
+Pokémon Square
+Pueltown
+Puzzle Village
+Ringtown
+Ryme City
+Sahra Town
+Serene Village
+Shaymin Village
+Shiver Camp
+Summerland
+Tilt Village
+Toy Town
+Treasure Town
+Vientown
+Westerly Town
+Wintown
+English name
+A.J.'s Gym
+Acapulco
+Cameran Palace
+Camomile Island
+Camp Pokéhearst
+Cerise Laboratory
+Chrysanthemum Island
+Commerce City
+Cremini Town
+Dark City
+Dragonite Island
+Eevee Evolution Lab
+Evolution Mountain
+Fennel Valley
+Fighting Spirit Gym
+Gaiva Dam
+Gardenia Town
+Grampa Canyon
+Gringey City
+Hidden Village
+Hollywood
+HopHopHop Town
+House of Imite
+Hutber Port
+Indigo Academy
+Island of the Giant Pokémon
+Kaz Gym
+Leaf Forest
+Maiden's Peak
+Metallica Island
+Mirage Mansion
+Mossgreen Village
+Mt. Hideaway
+Mulberry City
+Neon Town
+New Island
+Old Shore Wharf
+Pokélantis
+Pokémon Land
+Pokémon Ninja School
+Pokémon Tech
+Pokémon Theme Park
+Pokémopolis
+Potpourri Island
+Rifure Village
+Rota
+Roy's hometown
+Sable City
+Sayda Island
+Scissor Street
+Seafoam Island
+Silver Town
+Stone Town
+Sunnytown
+Team Rocket Academy
+Team Rocket HQ
+Terracotta Town
+Tree of Beginning
+Wisteria Town
+Yas Gym
+Ascorbia Island
+Butwal Island
+Cleopatra Island
+Fairchild Island
+Fire Island
+Golden Island
+Hamlin Island
+Ice Island
+Kinnow Island
+Kumquat Island
+Lightning Island
+Mandarin Island North
+Mandarin Island South
+Mikan Island
+Moro Island
+Murcott Island
+Navel Island
+Palace of Victory
+Pinkan Island
+Pokémon Showboat
+Pummelo Island
+Pummelo Stadium
+Rind Island
+Seven Grapefruit Islands
+Shamouti Island
+Sunburst Island
+Tangelo Island
+Tarroco Island
+Trovita Island
+Trovitopolis
+Valencia Island
+Alto Mare
+Arborville
+Battle Park
+Big Town
+Bloomingvale
+Bluefinland
+Blue Lagoon
+Blue Moon Falls
+Blue Point Isle
+Bonitaville
+Catallia City
+Charicific Valley
+Coastline Gym
+Diglett Village
+Dragon Holy Land
+Eclipse Castle
+Eggseter
+Florando
+Greenfield
+Happy Town
+Ho-Oh Shrine
+Inland City
+Lake Lucid
+Lake of Life
+Lake Slowpoke
+Len Town
+Marine Pokémon Laboratory
+Marion Town
+Maroon Town
+Megi City
+Mount Quena
+Ogi City
+Onix Tunnel
+Palm Hills
+Palmpona
+Pokémon Jujitsu Academy
+Pudgy Pidgey Isle
+Red Rock Isle
+Remoraid Mountain
+Scarlet City
+Secret Garden
+Silver Rock Isle
+Silver Town
+Slowpoke Temple
+Snowtop Mountain
+Sunflora Lodge
+Transit Town
+Way Away Island
+Whitestone
+Wobbuffet Village
+Yellow Rock Isle
+Anthony's Gym
+Banana Slakoth Garden
+Bomba Island
+Crossgate Town
+Donto Island
+Foothill Town
+Forbidden Forest
+Forina
+Izabe Island
+Izabe Lake
+Kirikiri Mountain
+Lake May
+LaRousse City
+Maisie Island
+Mirage Kingdom
+Misty Village
+Monsu Island
+Mountain Lighthouse
+Muscle Island
+North Petalburg
+Oldale Ruins
+Pokémon Battle Judge Training Institute
+Purika City
+Rinshin Town
+Riyado Town
+Rubello Town
+Shroomish Forest
+South City
+Square Top
+The Green Lodge
+The Greenhouse
+Togepi Paradise
+Valley of Steel
+Volley Town
+Wailmer Island
+Wales Island
+Wazoo Island
+Alamos Town
+Amber Castle
+Arrowroot Town
+B-Button League Headquarters
+Bewilder Forest
+Brussel Town
+Camellia Town
+Celestic Town Historical Research Center
+Chocovine Town
+Crown City
+Dandelion Island
+Daybreak Town
+Diablo's Ocean
+Dustox Flower Field
+Emeragrove Town
+Gracidea
+Greenstation Town
+Lake Psyduck
+Lily of the Valley Island
+Lilypad Town
+Lucario Kingdom
+Majolica Town
+Metagross Mountain
+Michina Town
+Mt. Shady
+Neighborly Town
+Pokémon Summer Academy
+Pokémon Training Center
+Sandalstraw Town
+Shelter Town
+Space-Time Towers
+Squallville
+Summit Ruins
+Sunyshore Tower
+Xatu's Forest
+English name
+Absentia Natural Park
+Ambiga Town
+Antimony Research Lab
+Area 28
+Astilbe Town
+Clock tower
+Colossus Ruins
+Eindoak Town
+Ferroseed Research Institute
+Flower Garden Troupe
+Hero's Ruin
+Kingdom of the Vale
+Litwick Mansion
+Luxuria Town
+Milos Island
+N's Hideout
+New Tork City
+Nimbasa Town
+Pokémon Hills
+Rainbow Valley
+Roshan City
+Stonesthrow Town
+Sword of the Vale
+Vertress City
+Village of Dragons
+White Ruins
+Windy Station
+Capacia Island
+Cave Island
+Frond Island
+Grand Spectrala Island
+Grand Spectrala Islet
+Harvest Island
+Honey Island
+Paladin Island
+Scalchop Island
+Torom Island
+Wayfarer Island
+Allearth Forest
+Arche Valley
+Avignon Town
+Azoth Kingdom
+Brackish Town
+Calanthe Town
+Castle of Chivalry
+Chapman Research Lab
+Dahara City
+Diamond Domain
+Fleurrh City
+Gloire City
+Grace Town
+Jacore Town
+Joule Town
+Kalos Canyon
+Lagoon Town
+Mega Island
+Mt. Molteau
+Nebel Plateau
+Ninja Village
+Odyssey Village
+Orsay City
+Otori Mountain
+Pikachu Land
+Pokémon Fossil Research Lab
+Pokémon Summer Camp
+Pomace Mountain
+Bamboo Hill
+Clawmark Hill
+Manalo
+Pokémon Paradise Resort
+Pokémon School
+Starfall Hill
+Treasure Island
+Viren
+Arboliva Forest
+Sinister Cave
+Bloom Canyon
+Cero Island
+Okoya
+Fula City
+Lapidarian Highlands
+Laxton Farm
+Milyfa Town
+Mount Tensei
+Pokémon Nurse School Town
+Raizen Mountains
+Samiya
+Slowpoke Island
+Beach Rose Town
+Brindille Town
+Cerosi Town
+Crimson City
+Frodomar City
+Ganga Town
+Gerbera Town
+Inua Town
+Mocha Town
+Sage Town
+Sento Cherry Town
